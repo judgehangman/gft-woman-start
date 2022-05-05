@@ -1,4 +1,6 @@
-# DIO | Desafio de Projeto Módulo 01
+[![DIO - Projeto](https://img.shields.io/badge/DIO-Projeto-ff69b4?style=for-the-badge)](https://web.dio.me)
+
+# DIO | Anotações Bootcamp
 
 Repositório criado para o Desafio de Projeto sobre Git/GitHub, usado como caderno de anotações do conteúdo.
 
