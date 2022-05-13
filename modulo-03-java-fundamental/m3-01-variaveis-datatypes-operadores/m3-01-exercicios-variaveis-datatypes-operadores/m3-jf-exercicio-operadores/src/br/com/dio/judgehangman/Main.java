@@ -78,5 +78,4 @@ public class Main {
         System.out.println("n (m/2): " + n);
         System.out.println("x (m%2): " + x);
     }
-
 }
