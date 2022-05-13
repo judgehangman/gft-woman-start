@@ -27,7 +27,7 @@ Exercem operações matemáticas em um único operando. Podem ser *pré-fixados*
 | ++       | incrementa o valor da variável em 1 | Ambos       |
 | --       | reduz o valor da variável em 1      | Ambos       |
 | !        | inverte o valor da variável lógica  | Pré         |
-| ~        | inverte of valor do bit             | Pré         |
+| ~        | inverte o valor dos bits            | Pré         |
 
 
 
@@ -69,7 +69,7 @@ Operadores bit-a-bit fazem operações lógicas a nível de bits.
 | `&`      | Conjunção bit-a-bit `AND`           | Retorna uma conjunção lógica bit-a-bit dos valores de um determinado input, ou seja, se ambos os bits forem 1, retorna 1, se não, retorna 0. | Binário |
 | `|`      | Disjunção bit-a-bit`OR`             | Retorna uma disjunção lógica bit-a-bit dos valores de um determinado input, ou seja, se um dos bits correspondentes for 1, retorna 1, se não, retorna 0. | Binário |
 | `^`      | Disjunção exclusiva bit-a-bit `XOR` | Retorna uma disjunção exclusiva bit-a-bit dos valores de um determinado input, ou seja, se os bits correspondentes forem diferentes, retorna 1, se não, retorna 0. | Binário |
-| `~`      | Complemento                         | Retorna o complemento de um determinado input, ou seja, inverte o valor de cada bit, fazendo cada 1 se tornar 0 e cada 0 se tornar 1. | Unário  |
+| `~`      | Complemento                         | Retorna o complemento de dois um determinado input.          | Unário  |
 
 
 
