@@ -4,6 +4,12 @@
 
 Repositório criado para o Desafio de Projeto sobre Git/GitHub, usado como caderno de anotações do conteúdo.
 
+## :file_folder: Pastas
+
+Em progresso
+
+
+
 
 ## Links Úteis 🔗
 
@@ -54,3 +60,4 @@ Ubuntu 20.04.4 LTS
   - puxa do repositório remoto para seu repositório atual
 - **`git clone`**
   - clona um repositório remoto para um novo diretório
+
