@@ -1,0 +1,13 @@
+1) Faça um programa que receba a temperatura média dos 6 primeiros meses do ano e armazene-os em uma lista. Após isto, calcule a média semestral das temperaturas e mostre todas as temperaturas acima desta média e em que mês elas ocorreram (mostrar o mês por extenso).
+
+2) Utilizando listas, faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
+	1. "Telefonou para a vítima?"
+	2. "Esteve no local do crime?"
+	3. "Mora perto da vítima?"
+	4. "Devia para a vítima?"
+	5. "Já trabalhou com a vítima?"
+	
+Se a pessoa responder positivamente a 2 questões, ela deve ser classificada como "supeita", entre 3 a 4 como cúmplice e 5 como "assassina". Caso contrário, ela será classificada como "inocente".
+
+
+
