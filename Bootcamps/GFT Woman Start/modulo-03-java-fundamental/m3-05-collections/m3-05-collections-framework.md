@@ -34,6 +34,29 @@ Deve ser usado onde mais operações de inserção e exclusão são necessárias
 
 ## Set
 
+`java.util.Set`
+
+- Não permite elementos duplicados
+- Não possui índice
+
+
+
+### TreeSet
+
+
+
+### HashSet
+
+
+
+### LinkedHashSet
+
+
+
+
+
+
+
 
 
 
